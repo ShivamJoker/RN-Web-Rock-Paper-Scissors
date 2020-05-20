@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/app/*"
+from = "/app*"
 to = "https://play.google.com/store/apps/details?id=com.rockpaperscissors.game"
 status = 301
 force = true
